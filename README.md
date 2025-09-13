@@ -1,4 +1,4 @@
-# EXN - O2 DS
+# EXN - 02 DS
 
 # AIM : To perform Exploratory Data Analysis on the given data set.
       
